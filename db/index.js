@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 // connect MongoDB
 mongoose.connect(
-  "mongodb+srv://sairajepawar994:okSqV5xEO0qsG6cq@cluster0.4f3zrvx.mongodb.net/todoList"
+  "link to the mongodb database"
 );
 
 // define schema
